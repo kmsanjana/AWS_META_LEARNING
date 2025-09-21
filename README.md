@@ -28,3 +28,9 @@ BUILD AND DEPLOY AN END-TO-END ML PIPELINE USING AWS TO CLASSIFY UNSEEN CATEGORI
 
 
 
+## 👩‍💻 Contributors
+Aditya Kanbargi — Data Science MS @ The George Washington University
+Sanjana Kadambe Muralidhar — Data Science MS @ The George Washington University
+
+## 📜 License
+MIT License © 2025 Aditya Kanbargi & Sanjana Kadambe Muralidhar
