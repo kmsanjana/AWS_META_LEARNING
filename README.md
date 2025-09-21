@@ -14,11 +14,11 @@ BUILD AND DEPLOY AN END-TO-END ML PIPELINE USING AWS TO CLASSIFY UNSEEN CATEGORI
 
 <img width="1372" height="781" alt="image" src="https://github.com/user-attachments/assets/1d728457-5162-4672-9bdb-13628644d811" />
 
-### MAML ARCHITECTURE:
+## MAML ARCHITECTURE:
 
 <img width="853" height="650" alt="image" src="https://github.com/user-attachments/assets/487b7d85-b20b-4296-835e-adfa5a4a2e08" />
 
-### Data Flow:
+### DATA FLOW:
 
 <img width="1266" height="465" alt="image" src="https://github.com/user-attachments/assets/f9bec7a5-ea12-4108-8713-63905fe43cc3" />
 
