@@ -1,11 +1,14 @@
-## Scope of the project:
-<img width="1315" height="512" alt="image" src="https://github.com/user-attachments/assets/7b26f27c-76c8-4e87-896b-8bd9fdb401be" />
+## SCOPE OF THE PROJECT:
+<img width="1170" height="478" alt="image" src="https://github.com/user-attachments/assets/dd430148-da7f-41aa-8a84-c980275fa631" />
 
-## Objective: 
+
+## OBJECTIVE:
 BUILD AND DEPLOY AN END-TO-END ML PIPELINE USING AWS TO CLASSIFY UNSEEN CATEGORIES OF IMAGES WITH VERY FEW TRAINING EXAMPLES
 
-## Data Source and Implementation:
+## DATA SOURCE:
 <img width="1336" height="680" alt="image" src="https://github.com/user-attachments/assets/415efea2-9970-46a0-b96e-6dcbe0a5c0ca" />
+
+## IMPLEMENTATION:
 
 <img width="1378" height="694" alt="image" src="https://github.com/user-attachments/assets/561ea918-adbf-4f23-b9bb-1ce5dee9f3fb" />
 
@@ -19,8 +22,7 @@ BUILD AND DEPLOY AN END-TO-END ML PIPELINE USING AWS TO CLASSIFY UNSEEN CATEGORI
 
 <img width="1266" height="465" alt="image" src="https://github.com/user-attachments/assets/f9bec7a5-ea12-4108-8713-63905fe43cc3" />
 
-EC2 is used to launch a live Flask-based prediction website that serves real-time image
-classification using the trained MAML model
+### EC2 is used to launch a live Flask-based prediction website that serves real-time image classification using the trained MAML model
 
 <img width="1386" height="694" alt="image" src="https://github.com/user-attachments/assets/fe67c8a5-6916-4299-b0b7-2b1f3dad9f84" />
 
